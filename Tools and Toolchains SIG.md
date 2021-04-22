@@ -80,4 +80,4 @@ Further repositories may be created in the future.
 
 ### Slack group
 We do not use Slack. In its place, we use an Open Source alternative to Slack called Mattermost.
-The toolchain group inside the OSTC Mattermost instance, hosted in a country not known for imposing bans on Huawei, lives at [https://chat.ostc-eu.org/ostc/channels/toolchain](https://chat.ostc-eu.org/ostc/channels/toolchain).
+The toolchain group inside the OSTC Mattermost instance, hosted in a country not known for imposing bans on Huawei, lives at [https://chat.ostc-eu.org/ostc/channels/toolchain](https://chat.ostc-eu.org/ostc/channels/sig-toolchain).
